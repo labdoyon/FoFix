@@ -1,0 +1,18 @@
+
+Note : 1
+Wrong Note played: 3
+Wrong Position of the played note: 6074.06802721
+Wrong Position of the original note: 5944.0
+
+Note : 1
+Wrong Note played: 2
+Wrong Position of the played note: 6081.50793651
+Wrong Position of the original note: 5944.0
+
+Note : 1
+Wrong Note played: 3
+Wrong Position of the played note: 6081.50793651
+Wrong Position of the original note: 5944.0
+
+Lost Note : 3
+Lost position of the played note: 19421.7619048

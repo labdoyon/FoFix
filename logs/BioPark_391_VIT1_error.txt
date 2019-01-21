@@ -1,0 +1,32 @@
+
+Lost Note : 3
+Lost position of the played note: 7480.70521542
+
+Lost Note : 4
+Lost position of the played note: 9003.78231293
+
+Note : 1
+Note played : 1
+Position of the played note: 10202.2199546
+Position of the original note: 10093.372
+
+Lost Note : 3
+Lost position of the played note: 11634.8571429
+
+Note : 3
+Wrong Note played: 4
+Wrong Position of the played note: 15772.0090703
+Wrong Position of the original note: 15625.868
+
+Note : 3
+Note played : 3
+Position of the played note: 15773.0090703
+Position of the original note: 15625.868
+
+Note : 1
+Note played : 1
+Position of the played note: 17085.7664399
+Position of the original note: 17008.992
+
+Lost Note : 3
+Lost position of the played note: 18732.1632653

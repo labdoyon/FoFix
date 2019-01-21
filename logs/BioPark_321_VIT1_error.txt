@@ -1,0 +1,11 @@
+
+Lost Note : 1
+Lost position of the played note: 5604.66893424
+
+Lost Note : 1
+Lost position of the played note: 6491.02721088
+
+Note : 2
+Wrong Note played: 1
+Wrong Position of the played note: 25322.6303855
+Wrong Position of the original note: 25307.736

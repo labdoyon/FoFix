@@ -1,0 +1,848 @@
+
+Note : 1
+Note played : 1
+Position of the played note: 5934.74829932
+Position of the original note: 5944.0
+
+Note : 3
+Note played : 3
+Position of the played note: 7014.30612245
+Position of the original note: 6981.343
+
+Note : 4
+Note played : 4
+Position of the played note: 8049.98412698
+Position of the original note: 8018.686
+
+Note : 1
+Note played : 1
+Position of the played note: 9131.10204082
+Position of the original note: 9056.029
+
+Note : 2
+Note played : 2
+Position of the played note: 10107.3401361
+Position of the original note: 10093.372
+
+Note : 4
+Note played : 4
+Position of the played note: 11126.0181406
+Position of the original note: 11130.715
+
+Note : 2
+Note played : 2
+Position of the played note: 11806.61678
+Position of the original note: 11822.277
+
+Note : 3
+Note played : 3
+Position of the played note: 12829.2947846
+Position of the original note: 12859.62
+
+Note : 1
+Note played : 1
+Position of the played note: 13911.4126984
+Position of the original note: 13896.963
+
+Note : 3
+Note played : 3
+Position of the played note: 14931.0907029
+Position of the original note: 14934.306
+
+Note : 4
+Note played : 4
+Position of the played note: 15965.7687075
+Position of the original note: 15971.649
+
+Note : 1
+Note played : 1
+Position of the played note: 16997.8866213
+Position of the original note: 17008.992
+
+Note : 2
+Note played : 2
+Position of the played note: 18062.0045351
+Position of the original note: 18046.335
+
+Note : 4
+Note played : 4
+Position of the played note: 19041.2426304
+Position of the original note: 19083.678
+
+Note : 2
+Note played : 2
+Position of the played note: 20116.3605442
+Position of the original note: 20121.021
+
+Note : 3
+Note played : 3
+Position of the played note: 21158.0385488
+Position of the original note: 21158.364
+
+Note : 1
+Note played : 1
+Position of the played note: 22175.7165533
+Position of the original note: 22195.707
+
+Note : 3
+Note played : 3
+Position of the played note: 23224.8344671
+Position of the original note: 23233.05
+
+Note : 4
+Note played : 4
+Position of the played note: 24282.952381
+Position of the original note: 24270.393
+
+Note : 1
+Note played : 1
+Position of the played note: 25262.1904762
+Position of the original note: 25307.736
+
+Note : 2
+Note played : 2
+Position of the played note: 26327.30839
+Position of the original note: 26345.079
+
+Note : 4
+Note played : 4
+Position of the played note: 27347.5464853
+Position of the original note: 27382.422
+
+Note : 2
+Note played : 2
+Position of the played note: 28351.2244898
+Position of the original note: 28419.765
+
+Note : 3
+Note played : 3
+Position of the played note: 29432.3424036
+Position of the original note: 29457.108
+
+Note : 1
+Note played : 1
+Position of the played note: 30832.9795918
+Position of the original note: 30840.232
+
+Note : 3
+Note played : 3
+Position of the played note: 32196.7369615
+Position of the original note: 32223.356
+
+Note : 4
+Note played : 4
+Position of the played note: 33600.9342404
+Position of the original note: 33606.48
+
+Lost Note : 3
+Lost position of the played note: 33600.9342404
+
+Note : 1
+Note played : 1
+Position of the played note: 35017.5714286
+Position of the original note: 34989.604
+
+Note : 2
+Note played : 2
+Position of the played note: 36350.8888889
+Position of the original note: 36372.728
+
+Note : 4
+Note played : 4
+Position of the played note: 37796.9659864
+Position of the original note: 37755.852
+
+Note : 2
+Note played : 2
+Position of the played note: 39028.4036281
+Position of the original note: 39138.976
+
+Note : 3
+Note played : 3
+Position of the played note: 40518.4807256
+Position of the original note: 40522.1
+
+Note : 1
+Note played : 1
+Position of the played note: 41848.2380952
+Position of the original note: 41905.224
+
+Note : 3
+Note played : 3
+Position of the played note: 43235.4353741
+Position of the original note: 43288.348
+
+Note : 4
+Note played : 4
+Position of the played note: 44583.1927438
+Position of the original note: 44671.472
+
+Note : 1
+Note played : 1
+Position of the played note: 46016.829932
+Position of the original note: 46054.596
+
+Note : 2
+Note played : 2
+Position of the played note: 47420.0272109
+Position of the original note: 47437.72
+
+Note : 4
+Note played : 4
+Position of the played note: 48765.7845805
+Position of the original note: 48820.844
+
+Note : 2
+Note played : 2
+Position of the played note: 50153.9818594
+Position of the original note: 50203.968
+
+Note : 3
+Note played : 3
+Position of the played note: 51557.1791383
+Position of the original note: 51587.092
+
+Note : 1
+Note played : 1
+Position of the played note: 52920.9365079
+Position of the original note: 52970.216
+
+Note : 3
+Note played : 3
+Position of the played note: 54267.6938775
+Position of the original note: 54353.34
+
+Note : 4
+Note played : 4
+Position of the played note: 55654.8911565
+Position of the original note: 55736.464
+
+Note : 1
+Note played : 1
+Position of the played note: 57087.5283447
+Position of the original note: 57119.588
+
+Note : 2
+Note played : 2
+Position of the played note: 58474.7256236
+Position of the original note: 58502.712
+
+Note : 4
+Note played : 4
+Position of the played note: 59855.4829932
+Position of the original note: 59885.836
+
+Note : 2
+Note played : 2
+Position of the played note: 61289.1201814
+Position of the original note: 61268.96
+
+Note : 3
+Note played : 3
+Position of the played note: 62556.4376417
+Position of the original note: 62652.084
+
+Note : 1
+Note played : 1
+Position of the played note: 64052.5147392
+Position of the original note: 64035.208
+
+Note : 3
+Note played : 3
+Position of the played note: 65409.2721088
+Position of the original note: 65418.332
+
+Note : 4
+Note played : 4
+Position of the played note: 66893.3492063
+Position of the original note: 66801.456
+
+Note : 1
+Note played : 1
+Position of the played note: 68090.7868481
+Position of the original note: 68184.58
+
+Note : 2
+Note played : 2
+Position of the played note: 69477.984127
+Position of the original note: 69567.704
+
+Lost Note : 4
+Lost position of the played note: 70824.7414966
+
+Note : 2
+Note played : 2
+Position of the played note: 72314.8185941
+Position of the original note: 72333.952
+
+Note : 3
+Note played : 3
+Position of the played note: 73678.5759637
+Position of the original note: 73717.076
+
+Note : 1
+Note played : 1
+Position of the played note: 74311.7346939
+Position of the original note: 74408.638
+
+Note : 3
+Note played : 3
+Position of the played note: 75064.7732426
+Position of the original note: 75100.2
+
+Note : 4
+Note played : 4
+Position of the played note: 75746.3718821
+Position of the original note: 75791.762
+
+Note : 1
+Note played : 1
+Position of the played note: 76395.5306122
+Position of the original note: 76483.324
+
+Note : 2
+Note played : 2
+Position of the played note: 77132.569161
+Position of the original note: 77174.886
+
+Note : 4
+Note played : 4
+Position of the played note: 77782.7278912
+Position of the original note: 77866.448
+
+Lost Note : 2
+Lost position of the played note: 78449.8866213
+
+Note : 3
+Wrong Note played: 4
+Wrong Position of the played note: 79146.4852608
+Wrong Position of the original note: 79249.572
+
+Lost Note : 3
+Lost position of the played note: 79451.5646258
+
+Note : 1
+Note played : 1
+Position of the played note: 79899.5238095
+Position of the original note: 79941.134
+
+Note : 3
+Note played : 3
+Position of the played note: 80550.6825397
+Position of the original note: 80632.696
+
+Note : 4
+Note played : 4
+Position of the played note: 81316.1609977
+Position of the original note: 81324.258
+
+Note : 1
+Note played : 1
+Position of the played note: 81983.3197279
+Position of the original note: 82015.82
+
+Note : 2
+Note played : 2
+Position of the played note: 82749.7981859
+Position of the original note: 82707.382
+
+Note : 4
+Note played : 4
+Position of the played note: 83283.6371882
+Position of the original note: 83398.944
+
+Note : 2
+Note played : 2
+Position of the played note: 84050.1156463
+Position of the original note: 84090.506
+
+Note : 3
+Note played : 3
+Position of the played note: 84780.7142857
+Position of the original note: 84782.068
+
+Note : 1
+Note played : 1
+Position of the played note: 85477.3129252
+Position of the original note: 85473.63
+
+Note : 3
+Note played : 3
+Position of the played note: 86094.4716553
+Position of the original note: 86165.192
+
+Note : 4
+Note played : 4
+Position of the played note: 86847.5102041
+Position of the original note: 86856.754
+
+Note : 1
+Note played : 1
+Position of the played note: 87600.5487528
+Position of the original note: 87548.316
+
+Note : 2
+Note played : 2
+Position of the played note: 88233.707483
+Position of the original note: 88239.878
+
+Note : 4
+Note played : 4
+Position of the played note: 88900.8662131
+Position of the original note: 88931.44
+
+Note : 2
+Note played : 2
+Position of the played note: 89580.4648526
+Position of the original note: 89623.002
+
+Note : 3
+Note played : 3
+Position of the played note: 90278.0634921
+Position of the original note: 90314.564
+
+Note : 1
+Note played : 1
+Position of the played note: 91387.1814059
+Position of the original note: 91351.907
+
+Note : 3
+Note played : 3
+Position of the played note: 92349.4195011
+Position of the original note: 92389.25
+
+Note : 4
+Note played : 4
+Position of the played note: 93397.537415
+Position of the original note: 93426.593
+
+Note : 1
+Note played : 1
+Position of the played note: 94489.6553288
+Position of the original note: 94463.936
+
+Note : 2
+Note played : 2
+Position of the played note: 95553.7732426
+Position of the original note: 95501.279
+
+Lost Note : 4
+Lost position of the played note: 96366.69161
+
+Note : 2
+Note played : 2
+Position of the played note: 97581.1292517
+Position of the original note: 97575.965
+
+Note : 3
+Note played : 3
+Position of the played note: 98673.2471655
+Position of the original note: 98613.308
+
+Note : 1
+Note played : 1
+Position of the played note: 99588.0453515
+Position of the original note: 99650.651
+
+Note : 3
+Note played : 3
+Position of the played note: 100670.163265
+Position of the original note: 100687.994
+
+Note : 4
+Note played : 4
+Position of the played note: 101688.84127
+Position of the original note: 101725.337
+
+Note : 1
+Note played : 1
+Position of the played note: 102707.519274
+Position of the original note: 102762.68
+
+Note : 2
+Note played : 2
+Position of the played note: 103772.637188
+Position of the original note: 103800.023
+
+Note : 4
+Note played : 4
+Position of the played note: 104733.875283
+Position of the original note: 104837.366
+
+Note : 2
+Note played : 2
+Position of the played note: 105815.993197
+Position of the original note: 105874.709
+
+Note : 3
+Note played : 3
+Position of the played note: 106920.55102
+Position of the original note: 106912.052
+
+Note : 1
+Note played : 1
+Position of the played note: 107940.229025
+Position of the original note: 107949.395
+
+Note : 3
+Note played : 3
+Position of the played note: 108988.346939
+Position of the original note: 108986.738
+
+Note : 4
+Note played : 4
+Position of the played note: 109999.585034
+Position of the original note: 110024.081
+
+Note : 1
+Note played : 1
+Position of the played note: 110972.823129
+Position of the original note: 111061.424
+
+Note : 2
+Note played : 2
+Position of the played note: 112106.820862
+Position of the original note: 112098.767
+
+Note : 4
+Note played : 4
+Position of the played note: 113055.619048
+Position of the original note: 113136.11
+
+Note : 2
+Note played : 2
+Position of the played note: 114137.736961
+Position of the original note: 114173.453
+
+Note : 3
+Note played : 3
+Position of the played note: 115185.854875
+Position of the original note: 115210.796
+
+Note : 1
+Note played : 1
+Position of the played note: 116187.53288
+Position of the original note: 116248.139
+
+Note : 3
+Note played : 3
+Position of the played note: 117255.210884
+Position of the original note: 117285.482
+
+Note : 4
+Note played : 4
+Position of the played note: 118344.768707
+Position of the original note: 118322.825
+
+Note : 1
+Note played : 1
+Position of the played note: 119370.446712
+Position of the original note: 119360.168
+
+Note : 2
+Note played : 2
+Position of the played note: 120388.124717
+Position of the original note: 120397.511
+
+Note : 4
+Note played : 4
+Position of the played note: 121406.802721
+Position of the original note: 121434.854
+
+Note : 2
+Note played : 2
+Position of the played note: 122472.920635
+Position of the original note: 122472.197
+
+Lost Note : 3
+Lost position of the played note: 123388.718821
+
+Note : 1
+Note played : 1
+Position of the played note: 124112.31746
+Position of the original note: 124201.102
+
+Note : 3
+Note played : 3
+Position of the played note: 124894.795918
+Position of the original note: 124892.664
+
+Note : 4
+Note played : 4
+Position of the played note: 125591.394558
+Position of the original note: 125584.226
+
+Note : 1
+Note played : 1
+Position of the played note: 126311.433107
+Position of the original note: 126275.788
+
+Note : 2
+Note played : 2
+Position of the played note: 126961.591837
+Position of the original note: 126967.35
+
+Note : 4
+Note played : 4
+Position of the played note: 127645.750567
+Position of the original note: 127658.912
+
+Note : 2
+Note played : 2
+Position of the played note: 128308.349206
+Position of the original note: 128350.474
+
+Note : 3
+Note played : 3
+Position of the played note: 129038.947846
+Position of the original note: 129042.036
+
+Note : 1
+Note played : 1
+Position of the played note: 129728.546485
+Position of the original note: 129733.598
+
+Note : 3
+Note played : 3
+Position of the played note: 130378.705215
+Position of the original note: 130425.16
+
+Note : 4
+Note played : 4
+Position of the played note: 131122.743764
+Position of the original note: 131116.722
+
+Note : 1
+Note played : 1
+Position of the played note: 131811.342404
+Position of the original note: 131808.284
+
+Note : 2
+Note played : 2
+Position of the played note: 132524.941043
+Position of the original note: 132499.846
+
+Note : 4
+Note played : 4
+Position of the played note: 133205.539683
+Position of the original note: 133191.408
+
+Note : 2
+Note played : 2
+Position of the played note: 133896.138322
+Position of the original note: 133882.97
+
+Note : 3
+Note played : 3
+Position of the played note: 134529.297052
+Position of the original note: 134574.532
+
+Note : 1
+Note played : 1
+Position of the played note: 135196.455782
+Position of the original note: 135266.094
+
+Note : 3
+Wrong Note played: 2
+Wrong Position of the played note: 135876.054422
+Wrong Position of the original note: 135957.656
+
+Note : 4
+Note played : 4
+Position of the played note: 136606.653061
+Position of the original note: 136649.218
+
+Note : 1
+Note played : 1
+Position of the played note: 137342.69161
+Position of the original note: 137340.78
+
+Note : 2
+Note played : 2
+Position of the played note: 138063.730159
+Position of the original note: 138032.342
+
+Note : 4
+Note played : 4
+Position of the played note: 138690.44898
+Position of the original note: 138723.904
+
+Note : 2
+Note played : 2
+Position of the played note: 139364.047619
+Position of the original note: 139415.466
+
+Note : 3
+Note played : 3
+Position of the played note: 140164.526077
+Position of the original note: 140107.028
+
+Note : 1
+Note played : 1
+Position of the played note: 140790.244898
+Position of the original note: 140798.59
+
+Note : 3
+Note played : 3
+Position of the played note: 141464.843537
+Position of the original note: 141490.152
+
+Note : 4
+Note played : 4
+Position of the played note: 142132.002268
+Position of the original note: 142181.714
+
+Note : 1
+Note played : 1
+Position of the played note: 142858.040816
+Position of the original note: 142873.276
+
+Note : 2
+Note played : 2
+Position of the played note: 143580.639456
+Position of the original note: 143564.838
+
+Note : 4
+Note played : 4
+Position of the played note: 144261.238095
+Position of the original note: 144256.4
+
+Note : 2
+Note played : 2
+Position of the played note: 144967.836735
+Position of the original note: 144947.962
+
+Note : 3
+Note played : 3
+Position of the played note: 145516.115646
+Position of the original note: 145639.524
+
+Note : 1
+Note played : 1
+Position of the played note: 147012.192744
+Position of the original note: 147022.648
+
+Note : 3
+Note played : 3
+Position of the played note: 148381.390023
+Position of the original note: 148405.772
+
+Note : 4
+Note played : 4
+Position of the played note: 149785.587302
+Position of the original note: 149788.896
+
+Note : 1
+Note played : 1
+Position of the played note: 151235.22449
+Position of the original note: 151172.02
+
+Note : 2
+Wrong Note played: 3
+Wrong Position of the played note: 152548.981859
+Wrong Position of the original note: 152555.144
+
+Note : 2
+Wrong Note played: 3
+Wrong Position of the played note: 152582.981859
+Wrong Position of the original note: 152555.144
+
+Note : 2
+Wrong Note played: 4
+Wrong Position of the played note: 152582.981859
+Wrong Position of the original note: 152555.144
+
+Note : 3
+Note played : 3
+Position of the played note: 153882.29932
+Position of the original note: 153938.268
+
+Note : 2
+Note played : 2
+Position of the played note: 155287.496599
+Position of the original note: 155321.392
+
+Note : 3
+Note played : 3
+Position of the played note: 156733.573696
+Position of the original note: 156704.516
+
+Note : 1
+Note played : 1
+Position of the played note: 158121.770975
+Position of the original note: 158087.64
+
+Note : 3
+Note played : 3
+Position of the played note: 159467.528345
+Position of the original note: 159470.764
+
+Note : 4
+Note played : 4
+Position of the played note: 160784.845805
+Position of the original note: 160853.888
+
+Note : 1
+Note played : 1
+Position of the played note: 162188.043084
+Position of the original note: 162237.012
+
+Note : 2
+Note played : 2
+Position of the played note: 163621.680272
+Position of the original note: 163620.136
+
+Note : 4
+Note played : 4
+Position of the played note: 164952.437642
+Position of the original note: 165003.26
+
+Note : 2
+Note played : 2
+Position of the played note: 166332.195011
+Position of the original note: 166386.384
+
+Note : 3
+Note played : 3
+Position of the played note: 167748.8322
+Position of the original note: 167769.508
+
+Note : 1
+Note played : 1
+Position of the played note: 169122.589569
+Position of the original note: 169152.632
+
+Note : 3
+Note played : 3
+Position of the played note: 170499.786848
+Position of the original note: 170535.756
+
+Note : 4
+Note played : 4
+Position of the played note: 171903.984127
+Position of the original note: 171918.88
+
+Note : 1
+Note played : 1
+Position of the played note: 173233.741497
+Position of the original note: 173302.004
+
+Note : 2
+Note played : 2
+Position of the played note: 174667.378685
+Position of the original note: 174685.128
+
+Note : 4
+Note played : 4
+Position of the played note: 176053.575964
+Position of the original note: 176068.252
+
+Note : 2
+Note played : 2
+Position of the played note: 176737.734694
+Position of the original note: 176759.814
+
+Note : 3
+Note played : 3
+Position of the played note: 178089.931973
+Position of the original note: 178142.938

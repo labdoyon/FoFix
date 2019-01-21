@@ -1,0 +1,13 @@
+
+Lost Note : 2
+Lost position of the played note: 22737.9954649
+
+Note : 4
+Note played : 4
+Position of the played note: 23912.4331066
+Position of the original note: 23924.612
+
+Note : 2
+Note played : 2
+Position of the played note: 25322.6303855
+Position of the original note: 25307.736

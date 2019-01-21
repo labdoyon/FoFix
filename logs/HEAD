@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 b3873add44e807be06b69179f68c1d993b39e6b5 arnaudbore <bore@bore-PC.(none)> 1384443714 -0500	clone: from https://github.com/fofix/fofix.git
+b3873add44e807be06b69179f68c1d993b39e6b5 b3873add44e807be06b69179f68c1d993b39e6b5 unknown <Petra@Petra-PC.(none)> 1422265808 +0100	checkout: moving from master to zubri-dev
+b3873add44e807be06b69179f68c1d993b39e6b5 b3873add44e807be06b69179f68c1d993b39e6b5 unknown <Petra@Petra-PC.(none)> 1422265978 +0100	checkout: moving from zubri-dev to master
+b3873add44e807be06b69179f68c1d993b39e6b5 2d96a29fe649d76b5189a82cff65b37aba39201c Petra Zemankova <peta.zemankova@gmail.com> 1422266214 +0100	commit: plechule
+2d96a29fe649d76b5189a82cff65b37aba39201c 2fc08828ecac088e6c91a4aedcb1c0b00e4eabea Petra Zemankova <peta.zemankova@gmail.com> 1422266220 +0100	checkout: moving from master to zubri-dev
+2fc08828ecac088e6c91a4aedcb1c0b00e4eabea 2d96a29fe649d76b5189a82cff65b37aba39201c Petra Zemankova <peta.zemankova@gmail.com> 1422266477 +0100	checkout: moving from zubri-dev to master
+2d96a29fe649d76b5189a82cff65b37aba39201c b3873add44e807be06b69179f68c1d993b39e6b5 Petra Zemankova <peta.zemankova@gmail.com> 1422266529 +0100	checkout: moving from master to b3873
+b3873add44e807be06b69179f68c1d993b39e6b5 2fc08828ecac088e6c91a4aedcb1c0b00e4eabea Petra Zemankova <peta.zemankova@gmail.com> 1422292685 +0100	checkout: moving from b3873add44e807be06b69179f68c1d993b39e6b5 to zubri-dev
+2fc08828ecac088e6c91a4aedcb1c0b00e4eabea 2d96a29fe649d76b5189a82cff65b37aba39201c Petra Zemankova <peta.zemankova@gmail.com> 1422292752 +0100	checkout: moving from zubri-dev to master
+2d96a29fe649d76b5189a82cff65b37aba39201c 673d5fb0d321abecda773c493dc6d00b61b9dd70 Petra Zemankova <peta.zemankova@gmail.com> 1422292861 +0100	pull origin master: Merge made by the 'recursive' strategy.
+673d5fb0d321abecda773c493dc6d00b61b9dd70 2fc08828ecac088e6c91a4aedcb1c0b00e4eabea Petra Zemankova <peta.zemankova@gmail.com> 1422292901 +0100	checkout: moving from master to zubri-dev
